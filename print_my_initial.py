@@ -3,10 +3,9 @@ def print_my_initial(string):
 
 
 def main():
-
+    print_my_initial('YYW')
     print_my_initial('YSK')
     print_my_initial('KJY')
-
 
 if __name__=='__main__':
     main()
