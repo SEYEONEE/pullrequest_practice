@@ -3,7 +3,7 @@ def print_my_initial(string):
 
 
 def main():
-    print_my_initial('LWW')
+    print_my_initial('PSY')
 
 if __name__=='__main__':
     main()
